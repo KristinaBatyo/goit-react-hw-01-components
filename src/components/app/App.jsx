@@ -7,7 +7,7 @@ import { Statistic } from "../statistic/Statistics";
 import { FriendListItem } from '../friendlist/FriendListItem'
 import friends from "data/friends.json";
 
-import { TransactionHistory } from "../transaction/TransactionHistory";
+import { TransactionHistory } from "../Transaction/TransactionHistory";
 import transactions from "data/transactions.json";
 import {Container} from './App.styled'
 
